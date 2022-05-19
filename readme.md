@@ -2,12 +2,6 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=lsj162)
 
-
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
-
-[![FantasticLBP's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsj162&layout=compact)](https://github.com/lsj162)
-
-
 **lsj162/lsj162** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,4 +14,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
+
+[![FantasticLBP's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsj162&layout=compact)](https://github.com/lsj162)
+
+
+
 
