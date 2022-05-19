@@ -1,8 +1,7 @@
-<p align="right">
-  ![](https://komarev.com/ghpvc/?username=lsj162)
-</p>
+![](https://komarev.com/ghpvc/?username=lsj162)
   
-### 👋 About me
+👋 
+### About me
 
 - 🔭 I’m currently working on：平台应用网站建设者
 - 🌱 I’m currently learnin：rust node web go
