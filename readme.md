@@ -1,8 +1,7 @@
 
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=lsj162)
-
-✨✨ 
+ 
 - 🔭 I’m currently working on：web server
 - 🌱 I’m currently learnin：Rust Go Web
 - 📫 How to reach me: ...
