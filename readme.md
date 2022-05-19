@@ -10,3 +10,5 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ✨✨ 一些统计数据怎么样?
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsj162&layout=compact)](https://github.com/lsj162)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsj162)](https://github.com/anuraghazra/github-readme-stats)
