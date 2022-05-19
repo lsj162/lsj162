@@ -1,6 +1,7 @@
-
-![](https://komarev.com/ghpvc/?username=lsj162)
-
+<p align="right">
+  ![](https://komarev.com/ghpvc/?username=lsj162)
+</p>
+  
 ### 👋 About me
 
 - 🔭 I’m currently working on：平台应用网站建设者
