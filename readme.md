@@ -2,9 +2,9 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=lsj162)
  
-- 🔭 I’m currently working on：web server
-- 🌱 I’m currently learnin：Rust Go Web
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on：平台应用建设者
+- 🌱 I’m currently learnin：rust node web go
+- 📫 How to reach me: lsj162
 
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
