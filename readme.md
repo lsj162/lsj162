@@ -11,6 +11,6 @@
 
   [![FantasticLBP 的 GitHub 统计数据](https://github-readme-stats.vercel.app/api?username=lsj162&theme=vue)](https://github.com/lsj162)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lsj162&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lsj162&repo=github-readme-stats)](https://github.com/lsj162/github-readme-stats)
 
 
